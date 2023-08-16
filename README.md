@@ -1,4 +1,4 @@
-# CCNA-Notes---jdepew88
+# CCNA-Notes---David Bombal Course
 These are all of notes from David Bombal's CCNA Start course.
 
 Some of the formatting could be better, but this should be a good resource for ya'll. 
